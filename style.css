@@ -1,0 +1,14 @@
+body{ }
+
+:root { 
+
+}
+
+ 
+.navbar{
+    display: flex;
+ }
+
+ .navbar-content{
+    display: flex;
+ }
